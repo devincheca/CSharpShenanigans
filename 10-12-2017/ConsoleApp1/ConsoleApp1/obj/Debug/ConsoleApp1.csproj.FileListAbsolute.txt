@@ -1,0 +1,6 @@
+F:\C#\firstConsoleApp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\C#\firstConsoleApp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\C#\firstConsoleApp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\C#\firstConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+F:\C#\firstConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\C#\firstConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
